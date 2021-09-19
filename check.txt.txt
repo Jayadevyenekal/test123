@@ -3,3 +3,5 @@ capgemini
 BMP
 
 javahomecloud
+
+fallocate -l +1G jay
